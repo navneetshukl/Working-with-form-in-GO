@@ -1,0 +1,1 @@
+Taking Data from the form from the GoLang Server than pushing that data to the Go Template
